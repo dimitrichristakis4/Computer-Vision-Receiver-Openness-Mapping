@@ -1,4 +1,4 @@
-# Queens Football CV Analysis — dependencies
+# Queens Football CV Analysis dependencies
 # Tested on Python 3.10+ on Apple Silicon (M4) with MPS acceleration.
 
 # Core CV / video
