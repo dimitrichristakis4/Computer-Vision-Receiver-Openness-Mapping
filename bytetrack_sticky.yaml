@@ -1,0 +1,7 @@
+tracker_type: bytetrack
+track_high_thresh: 0.25   # default — lowering this caused noisy false detections that broke snap timing
+track_low_thresh: 0.10    # default
+new_track_thresh: 0.25    # default
+track_buffer: 90          # keep lost tracks alive 90 frames (~1.6s at 57fps) vs default 30
+match_thresh: 0.85
+fuse_score: True
